@@ -688,6 +688,7 @@
 	oplus,mdss-dsi-manufacture = "samsung1024";
 	oplus,color_vivid_status;
 	oplus,color_srgb_status;
+	oplus,dp-support-customized;
 
 	oplus,dsi-fod-brightness = <0 0xff>,
 				<2 0xf1>,
